@@ -1,0 +1,5 @@
+filetimestamp:201502132040
+name:Portal,x:-56,z:248,y:110,enabled:true,red:0.36862746,green:0.05882353,blue:0.6156863,suffix:,world:,dimensions:-1#
+name:Home,x:-131,z:198,y:101,enabled:true,red:0.9882353,green:0.05490196,blue:0.007843138,suffix:,world:,dimensions:0#
+name:Blaze Spawner,x:-5560,z:-1488,y:60,enabled:true,red:0.99607843,green:0.59607846,blue:0.20784314,suffix:,world:,dimensions:-1#
+name:Latest Death,x:-208,z:-336,y:80,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:-1#

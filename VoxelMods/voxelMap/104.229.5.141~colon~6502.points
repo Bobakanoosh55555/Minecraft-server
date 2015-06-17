@@ -1,0 +1,52 @@
+filetimestamp:201506151743
+name:Portal,x:304,z:72,y:57,enabled:true,red:0.38431373,green:0.05882353,blue:0.5568628,suffix:,world:,dimensions:-1#
+name:Linking Book,x:17,z:45,y:71,enabled:true,red:0.43137255,green:0.28627452,blue:0.0,suffix:,world:,dimensions:3#
+name:Linking Book,x:-22,z:-29,y:94,enabled:true,red:0.53333336,green:0.34901962,blue:0.003921569,suffix:,world:,dimensions:4#
+name:Infested Biome 1,x:-2093,z:-162,y:96,enabled:true,red:0.5686275,green:0.05490196,blue:0.003921569,suffix:,world:,dimensions:1#
+name:Burned Biome 1,x:-2396,z:-171,y:122,enabled:true,red:0.99215686,green:0.61960787,blue:0.15686275,suffix:,world:,dimensions:1#
+name:Infested Dungeon,x:-2860,z:135,y:123,enabled:true,red:0.73333335,green:0.015686275,blue:0.0,suffix:,world:,dimensions:1#
+name:Enchanted Biome,x:-2957,z:-300,y:122,enabled:true,red:0.42352942,green:0.05882353,blue:0.45490196,suffix:,world:,dimensions:1#
+name:Portal,x:-48,z:19,y:68,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:,world:,dimensions:1#
+name:Infested Dungeon #2,x:-2413,z:620,y:74,enabled:true,red:0.5803922,green:0.14509805,blue:0.0,suffix:,world:,dimensions:1#
+name:Burning Mountain - Cinder,x:2816,z:-743,y:110,enabled:true,red:0.99607843,green:0.76862746,blue:0.09019608,suffix:,world:,dimensions:1#
+name:Enchanted Dungeon,x:2577,z:713,y:96,enabled:true,red:0.41960785,green:0.101960786,blue:0.61960787,suffix:,world:,dimensions:1#
+name:Fortress,x:2224,z:-1216,y:71,enabled:true,red:0.3254902,green:0.023529412,blue:0.14901961,suffix:,world:,dimensions:-1#
+name:Andy's Base,x:22,z:429,y:75,enabled:true,red:0.5137255,green:0.5411765,blue:0.9647059,suffix:,world:,dimensions:0#
+name:Labyrinth,x:284,z:60,y:50,enabled:true,red:0.7764706,green:0.8235294,blue:0.9882353,suffix:,world:,dimensions:7#
+name:Portal,x:418,z:33,y:35,enabled:true,red:0.5294118,green:0.27058825,blue:0.6901961,suffix:,world:,dimensions:7#
+name:Home,x:610,z:105,y:32,enabled:true,red:0.8117647,green:0.14509805,blue:0.0,suffix:,world:,dimensions:7#
+name:Home,x:290,z:295,y:138,enabled:true,red:0.99215686,green:0.19215687,blue:0.15294118,suffix:,world:,dimensions:0#
+name:Stronghold,x:621,z:583,y:24,enabled:true,red:0.45490196,green:0.45490196,blue:0.45490196,suffix:,world:,dimensions:0#
+name:Slime Island,x:314,z:-54,y:166,enabled:true,red:0.4627451,green:0.99607843,blue:0.5686275,suffix:,world:,dimensions:0#
+name:Ordo/Perditio,x:2712,z:-1184,y:37,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:-1#
+name:Portal,x:282,z:288,y:89,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:-100#
+name:Sinister,x:-22,z:585,y:74,enabled:false,red:0.20392157,green:0.19607843,blue:0.0,suffix:,world:,dimensions:0#
+name:Perditio/Terra,x:-175,z:584,y:74,enabled:false,red:0.0,green:0.24705882,blue:0.015686275,suffix:,world:,dimensions:0#
+name:Aer,x:66,z:1225,y:133,enabled:false,red:0.98039216,green:0.9882353,blue:0.6156863,suffix:,world:,dimensions:0#
+name:Sandy Village,x:-243,z:1240,y:80,enabled:false,red:0.3764706,green:0.3372549,blue:0.0,suffix:,world:,dimensions:0#
+name:Taera/Feather,x:-723,z:917,y:65,enabled:false,red:0.9019608,green:0.9882353,blue:0.5882353,suffix:,world:,dimensions:0#
+name:Aqua,x:-790,z:634,y:64,enabled:false,red:0.5686275,green:0.627451,blue:0.9843137,suffix:,world:,dimensions:0#
+name:Sinister 2,x:-743,z:111,y:77,enabled:false,red:0.13725491,green:0.2,blue:0.0,suffix:,world:,dimensions:0#
+name:Ordo/Ignis,x:-677,z:-539,y:72,enabled:false,red:0.99607843,green:0.53333336,blue:0.48235294,suffix:,world:,dimensions:0#
+name:Bright,x:-541,z:-705,y:75,enabled:false,red:1.0,green:0.90588236,blue:0.5529412,suffix:,world:,dimensions:0#
+name:Ignis/Terra,x:323,z:-155,y:67,enabled:false,red:0.99607843,green:0.83137256,blue:0.31764707,suffix:,world:,dimensions:0#
+name:Hungry,x:1164,z:-481,y:65,enabled:false,red:0.8117647,green:0.4627451,blue:0.003921569,suffix:,world:,dimensions:0#
+name:Village,x:1261,z:719,y:85,enabled:true,red:0.29803923,green:0.19215687,blue:0.003921569,suffix:,world:,dimensions:0#
+name:Hybrid Village,x:836,z:1168,y:76,enabled:false,red:0.2,green:0.15686275,blue:0.0,suffix:,world:,dimensions:0#
+name:Village 2,x:-158,z:892,y:89,enabled:false,red:0.31764707,green:0.19215687,blue:0.003921569,suffix:,world:,dimensions:0#
+name:Home Mountain,x:-135,z:485,y:97,enabled:true,red:0.007843138,green:0.08235294,blue:0.5529412,suffix:,world:,dimensions:0#
+name:Link Point,x:-34,z:392,y:67,enabled:true,red:0.8324944,green:0.19153851,blue:0.29767388,suffix:,world:,dimensions:0#
+name:Manganese,x:-118,z:472,y:32,enabled:true,red:0.11224872,green:0.15484053,blue:0.6248834,suffix:,world:,dimensions:0#
+name:Mineshaft Entry,x:-129,z:483,y:35,enabled:true,red:0.77057743,green:0.33440048,blue:0.40908122,suffix:,world:,dimensions:0#
+name:Iron,x:-477,z:-351,y:66,enabled:true,red:0.85770684,green:0.8456788,blue:0.20316458,suffix:,world:,dimensions:0#
+name:Silverwood,x:-282,z:-16,y:66,enabled:true,red:0.5769939,green:0.5435803,blue:0.81668544,suffix:,world:,dimensions:0#
+name:Return,x:-18,z:-31,y:94,enabled:true,red:0.22899461,green:0.23083073,blue:0.65954983,suffix:,world:,dimensions:5#
+name:Jon,x:-90,z:463,y:88,enabled:true,red:0.10097873,green:0.40824634,blue:0.37437034,suffix:,world:,dimensions:0#
+name:Magic Forest,x:-81,z:33,y:70,enabled:true,red:0.13304895,green:0.98291326,blue:0.5123109,suffix:,world:,dimensions:0#
+name:Node,x:-4,z:-428,y:92,enabled:true,red:0.99406767,green:0.16063601,blue:0.15320033,suffix:,world:,dimensions:0#
+name:New Mountain Home,x:-1056,z:1404,y:137,enabled:true,red:0.23485202,green:0.45393574,blue:0.6664408,suffix:,world:,dimensions:0#
+name:New Home,x:-135,z:760,y:32,enabled:true,red:0.5796572,green:0.27637076,blue:0.44156975,suffix:,world:,dimensions:0#
+name:Link Point,x:-12,z:6,y:86,enabled:true,red:0.7096789,green:0.006755233,blue:0.55353713,suffix:,world:,dimensions:11#
+name:Ordo,x:303,z:305,y:92,enabled:true,red:0.65375805,green:0.29074162,blue:0.7227282,suffix:,world:,dimensions:0#
+name:water/fire,x:-13,z:1102,y:63,enabled:true,red:0.77223957,green:0.56956476,blue:0.08880311,suffix:,world:,dimensions:0#
+name:Latest Death,x:-132,z:764,y:32,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:0#
